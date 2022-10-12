@@ -1,0 +1,6 @@
+main
+*.sum
+vendor
+data.xlsx
+.idea
+.vscode
